@@ -22,7 +22,7 @@ A real-time wireless environmental telemetry, digital filtering, and short-term 
 | `pressure_hpa` | Barometric Pressure | hPa |
 | `gas_ohms` | MOX Gas Sensor Resistance (VOC proxy) | Ω |
 
-![Hardware Setup](images/hardware_setup.jpg)
+![Hardware Setup](images/hardware-setup.jpg)
 
 ## Quick Start
 1. Flash Pimoroni's custom MicroPython firmware onto your Raspberry Pi Pico W.
